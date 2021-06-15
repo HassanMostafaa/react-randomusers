@@ -1,3 +1,3 @@
 # react-randomusers
-remote repo test
+remote repo
 # REACT - AXIOS - FRAMER.MOTION - REACT-ICONS - REACT-LOADING 
